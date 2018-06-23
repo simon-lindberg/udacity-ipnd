@@ -8,6 +8,3 @@ This project provides a simplified Python server-side script which generates a s
 - Python classes and Object Oriented Programming
 - HTML
 - CSS
-
-# How to run this project
-To show the website,  run `entertainment_center.py`. After executing the file you can view the page by opening `fresh_tomatoes.html`.
